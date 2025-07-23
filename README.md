@@ -14,9 +14,10 @@ Chase The Cheese é um jogo de plataforma 2D em que você controla um ratinho, p
 
 - Movimentação simples com **andar, pular e wall jump** em paredes com musgo.
 - Inimigos:
-  - **Gato**: anda no eixo X e causa game over ao encostar.
+  - **Gato**: anda no eixo X.
   - **Tentáculo**: ataca o jogador dentro de um range específico.
-  - **Gotas de ácido**: caem de canos e há um **rio de ácido** que sobe constantemente no mapa.
+  - **Gotas de ácido**: caem de canos em determinada frequência.
+  - **Rio de ácido**: sobe constantemente no mapa.
 - Coletáveis: **Queijos** espalhados no mapa que aumentam a pontuação final.
 - Objetivo: alcançar a saída antes do ácido e com o maior número de queijos possível.
 
