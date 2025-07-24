@@ -35,4 +35,7 @@ Todos os assets do jogo foram feitos à mão com o Krita:
 
 ---
 
-Feito por Maria Letícia Maranhão Nascimento e João Lucas Vieira dos Santos!
+## Equipe
+- Maria Letícia Maranhão 💚
+- Guilherme Maranhão 💙
+- João Lucas Vieira 💜
